@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{C41561AA-9BBD-4A5F-AC4E-F29FEF0AD533}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fa23IdentityTemplate/Program.cs">
+    <Files>
+      <File FileName="fa23IdentityTemplate/Program.cs" Line="23" Column="1" />
+      <File FileName="fa23IdentityTemplate/Views/Shared/_Layout.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/_ViewImports.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Shared/Error.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="fa23IdentityTemplate/Controllers/AccountController.cs" Line="17" Column="22" />
+      <File FileName="fa23IdentityTemplate/Controllers/HomeController.cs" />
+      <File FileName="fa23IdentityTemplate/Controllers/RoleAdminController.cs" />
+      <File FileName="fa23IdentityTemplate/Controllers/SeedController.cs" />
+      <File FileName="fa23IdentityTemplate/Models/ViewModels/AccountViewModels.cs" />
+      <File FileName="fa23IdentityTemplate/Models/ViewModels/RoleViewModels.cs" />
+      <File FileName="fa23IdentityTemplate/Models/AppUser.cs" />
+      <File FileName="fa23IdentityTemplate/Seeding/SeedRoles.cs" />
+      <File FileName="fa23IdentityTemplate/Seeding/SeedUsers.cs" />
+      <File FileName="fa23IdentityTemplate/Utilities/AddUser.cs" />
+      <File FileName="fa23IdentityTemplate/Views/Account/ChangePassword.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Account/Index.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Account/Login.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Account/Register.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Home/Index.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/RoleAdmin/Create.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/RoleAdmin/Edit.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/RoleAdmin/Index.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Seed/Index.cshtml" />
+      <File FileName="fa23IdentityTemplate/Views/Seed/Confirm.cshtml" />
+      <File FileName="fa23IdentityTemplate/DAL/AppDbContext.cs" Line="3" Column="1" />
+      <File FileName="fa23IdentityTemplate/fa23IdentityTemplate.csproj" Line="48" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fa23IdentityTemplate" expanded="True">
+            <Node name="fa23IdentityTemplate" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fa23IdentityTemplate PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
