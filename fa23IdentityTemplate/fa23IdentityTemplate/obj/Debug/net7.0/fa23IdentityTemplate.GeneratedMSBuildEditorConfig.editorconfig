@@ -9,69 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = fa23IdentityTemplate
 build_property.RootNamespace = fa23IdentityTemplate
-build_property.ProjectDir = /Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/
+build_property.ProjectDir = /Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate
+build_property.MSBuildProjectDirectory = /Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/ChangePassword.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/Index.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/Login.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/Register.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Home/Index.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/RoleAdmin/Create.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/RoleAdmin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZUFkbWluL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/RoleAdmin/Edit.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/RoleAdmin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZUFkbWluL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/RoleAdmin/Index.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/RoleAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZUFkbWluL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Seed/Confirm.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Seed/Confirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9Db25maXJtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Seed/Index.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Seed/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Shared/Error.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Shared/_Layout.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/Shared/_LoginPartial.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/_ViewImports.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/rkh393/Projects/fa23IdentityTemplate/fa23IdentityTemplate/Views/_ViewStart.cshtml]
+[/Users/rkh393/Documents/MIS333K Github/IdentityTemplate/fa23IdentityTemplate/fa23IdentityTemplate/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
