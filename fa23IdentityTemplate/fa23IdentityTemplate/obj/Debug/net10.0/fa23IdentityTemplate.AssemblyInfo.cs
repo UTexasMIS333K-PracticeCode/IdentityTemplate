@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fa23IdentityTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e943bb663c1878d8fe9600b631ceeb08106c5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c406cc7f227fdd15ae4afce05411c5df7573799")]
 [assembly: System.Reflection.AssemblyProductAttribute("fa23IdentityTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fa23IdentityTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
